@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mkemii
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning C, js
+- 📫 How to reach me: emidevelopment@gmail.com
+- 😄 Pronouns: he/him
